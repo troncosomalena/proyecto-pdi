@@ -5,8 +5,8 @@
 
 Integrantes:
 
-- {Apellido, Nombre} | [@username](https://github.com/username)
-- {Apellido, Nombre} | [@username](https://github.com/username)
+- {Troncoso, Malena} | [@troncosomalena](https://github.com/troncosomalena)
+- {Bustos, Geraldine} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 
