@@ -6,7 +6,7 @@
 Integrantes:
 
 - {Troncoso, Malena} | [@troncosomalena](https://github.com/troncosomalena)
-- {Bustos, Geraldine} | [@username](https://github.com/username)
+- {Bustos, Geraldine} | [@geraldineebustos](https://github.com/geraldineebustos)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 - {Apellido, Nombre} | [@username](https://github.com/username)
 
