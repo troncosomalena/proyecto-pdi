@@ -14,12 +14,12 @@ Proyecto institucional **E.E.S.T Nº4 de Berazategui**.
 
 ## Elevator's Pitch
 
-- Para {cliente objetivo}
-- Quienes {necesidad y/o oportunidad}
-- El {nombre del proyecto} es un {categoría del producto}
-- Que {beneficio clave, razón para comprarlo}
-- Diferente a {otras soluciones existentes, por ejemplo...}
-- Nuestro proyecto {declaración de la diferencia}.
+- Para personas que buscan ropa con estilo y calidad.
+- Quienes quieren vestirse diferente, destacar y encontrar prendas con identidad propia, más allá de la moda masiva.
+- El NinetyNine es una tienda de ropa a la moda.
+- Que ofrece prendas modernas de cuero vacuno y piel sintética tipo pelito, con buen acabado, durabilidad y un estilo distintivo en cada outfit.
+- Diferente a las marcas de ropa masiva o de producción rápida, que priorizan la cantidad por sobre los detalles.
+- Nuestro proyecto se diferencia por enfocarse en el diseño y la identidad de cada prenda, ofreciendo un estilo más cuidado y con personalidad propia.
 
 ## Requisitos
 
