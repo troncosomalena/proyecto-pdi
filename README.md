@@ -1,7 +1,7 @@
-# {nombre del proyecto}
+# {NinetyNine}
 
 **Descripción:**
-{breve explicación del proyecto}
+NinetyNine es una tienda de ropa a la moda, enfocada en prendas de cuero vacuno y piel sintética. La marca busca ofrecer looks modernos, cancheros y con actitud, pensados para un público que quiere destacarse y expresar su propio estilo a través de lo que usa.
 
 Integrantes:
 
